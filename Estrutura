@@ -1,0 +1,20 @@
+my-fdroid-repo/
+├─ README.md
+├─ .github/
+│  └─ workflows/
+│     └─ publish.yml
+├─ metadata/
+│  ├─ com.nextcloud.android.yml
+│  ├─ org.fdroid.fdroid.yml
+│  └─ ...
+├─ repo/
+│  ├─ index-v1.json
+│  ├─ index-v2.json
+│  ├─ entry.json
+│  ├─ entry.json.asc
+│  ├─ entry.jar
+│  └─ icons/
+└─ apks/
+   ├─ Nextcloud.apk
+   ├─ F-Droid.apk
+   └─ ...
