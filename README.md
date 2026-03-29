@@ -4,7 +4,7 @@ Repositório pessoal de apps favoritas compatível com **F-Droid** e **Neo Store
 
 ## URL do repositório
 
-https://teu-username.github.io/fdroid-repo/repo/
+https://WalkerPt.github.io/fdroid-repo/repo/
 
 ## Como adicionar no F-Droid
 
@@ -12,7 +12,7 @@ No teu Android, abre o F-Droid e vai para:
 
 - **Settings → Repositories → Add repository**  
 - ou abre este link no Android:  
-  `fdroidrepos://teu-username.github.io/fdroid-repo/repo/`
+  `fdroidrepos://WalkerPt.github.io/fdroid-repo/repo/`
 
 ## Apps incluídas (exemplos)
 
