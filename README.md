@@ -1,8 +1,17 @@
-## Android
-- [Nextcloud](https://nextcloud.com) — sincronização e ficheiros.
-- [F-Droid](https://f-droid.org) — apps open source.
-- [Obsidian](https://obsidian.md) — notas em Markdown.
+# My F-Droid Repo
 
-## Self-hosted
-- [Immich](https://immich.app) — fotos pessoais.
-- [Radicale](https://radicale.org) — calendário e contactos.
+Repositório pessoal de apps favoritas compatível com F-Droid e Neo Store.
+
+## URL do repositório
+https://teu-username.github.io/my-fdroid-repo/repo/
+
+## Adicionar no F-Droid
+Abre o link abaixo no Android:
+
+fdroidrepos://teu-username.github.io/my-fdroid-repo/repo
+
+## Conteúdo
+- Nextcloud
+- F-Droid
+- Obsidian
+- Immich
