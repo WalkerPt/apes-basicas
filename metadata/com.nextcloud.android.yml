@@ -1,0 +1,16 @@
+yaml
+
+Categories:
+  - Internet
+  - Cloud
+License: GPL-2.0-only
+WebSite: https://nextcloud.com
+SourceCode: https://github.com/nextcloud/android
+IssueTracker: https://github.com/nextcloud/android/issues
+AutoName: Nextcloud
+RepoType: git
+Repo: https://github.com/nextcloud/android
+Summary: Access your files, calendars and contacts securely.
+Description: |
+  Nextcloud for Android brings your files, calendars, contacts and other
+  data from your Nextcloud server to your phone or tablet.
