@@ -1,0 +1,15 @@
+yaml
+
+Categories:
+  - Individual Communication
+  - Internet
+License: GPL-3.0-or-later
+WebSite: https://f-droid.org
+SourceCode: https://gitlab.com/fdroid/fdroidclient
+IssueTracker: https://gitlab.com/fdroid/fdroidclient/issues
+AutoName: F-Droid
+RepoType: git
+Repo: https://gitlab.com/fdroid/fdroidclient
+Summary: Installer for FOSS Android apps.
+Description: |
+  F-Droid is an alternative app store for Android, focused on free and open source software.
